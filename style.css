@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+form{
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+input,
+textarea{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+button{
+    display: block;
+    margin: 10px auto;
+}
+.hidden{
+    display: none;
+}
